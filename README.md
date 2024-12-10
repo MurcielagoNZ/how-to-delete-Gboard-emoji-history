@@ -8,13 +8,13 @@
 * 防止Gboard记住最近使用的表情：<br>
 删除上述文件后，创建一个同名的文件夹即可。<br>
 <br>
-有的网友说用别的emoji填满、还有的网友不提出解决方案而是嘲讽这么做的意义……看着碍眼不行么？真是互联网大了什么鸟人都有。<br>
+有的网友不提出解决方案而是嘲讽这么做的意义……看着碍眼不行么？真是互联网大了什么鸟人都有。<br>
 
 # how to delete Gboard emoji history
 this is just a note<br>
 but this methord works on my XQ-CQ44 /w Android 14, 2024 Dec 10<br>
 <br>
-**only for devices with root accss**
+**only for devices with root accss**<br>
 delete<br>
 `/data/data/com.google.android.inputmethod.latin/databases/expression-history.db`
 * prevent Gboard remembering recently used emoji:<br>
